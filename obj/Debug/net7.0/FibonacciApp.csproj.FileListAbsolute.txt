@@ -1,0 +1,14 @@
+D:\IPZ\lab1\fibo\FibonacciApp\bin\Debug\net7.0\FibonacciApp.exe
+D:\IPZ\lab1\fibo\FibonacciApp\bin\Debug\net7.0\FibonacciApp.deps.json
+D:\IPZ\lab1\fibo\FibonacciApp\bin\Debug\net7.0\FibonacciApp.runtimeconfig.json
+D:\IPZ\lab1\fibo\FibonacciApp\bin\Debug\net7.0\FibonacciApp.dll
+D:\IPZ\lab1\fibo\FibonacciApp\bin\Debug\net7.0\FibonacciApp.pdb
+D:\IPZ\lab1\fibo\FibonacciApp\obj\Debug\net7.0\FibonacciApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\IPZ\lab1\fibo\FibonacciApp\obj\Debug\net7.0\FibonacciApp.AssemblyInfoInputs.cache
+D:\IPZ\lab1\fibo\FibonacciApp\obj\Debug\net7.0\FibonacciApp.AssemblyInfo.cs
+D:\IPZ\lab1\fibo\FibonacciApp\obj\Debug\net7.0\FibonacciApp.csproj.CoreCompileInputs.cache
+D:\IPZ\lab1\fibo\FibonacciApp\obj\Debug\net7.0\FibonacciApp.dll
+D:\IPZ\lab1\fibo\FibonacciApp\obj\Debug\net7.0\refint\FibonacciApp.dll
+D:\IPZ\lab1\fibo\FibonacciApp\obj\Debug\net7.0\FibonacciApp.pdb
+D:\IPZ\lab1\fibo\FibonacciApp\obj\Debug\net7.0\FibonacciApp.genruntimeconfig.cache
+D:\IPZ\lab1\fibo\FibonacciApp\obj\Debug\net7.0\ref\FibonacciApp.dll
